@@ -1,8 +1,13 @@
-# Launchpad
 
+<img src="https://github.com/gaskoin/launchpad/assets/5610300/f2ad325b-41ff-4f83-921a-f6ba6270ad64.png" height=300 align="left" />
+
+# Launchpad
 This repository contains the device firmware for rocket launching.
 
- [TTGO T-Beam V1.2](https://www.aliexpress.com/item/1005003088139358.html) with 868MHz radio and custom buzzer and igniter modules are used as a hardware.
+[TTGO T-Beam V1.2](https://www.aliexpress.com/item/1005003088139358.html) with 868MHz radio and custom buzzer and igniter modules are used as a hardware.
+
+Mechanical construction assumes small rockets for 3 mm launching rod but more power rockets can also be launched with this electronics. Bigger battery needs to be used and other mechanical construction. 
+<br clear="left"/>
 
 ### TODO
 - Low battery status
