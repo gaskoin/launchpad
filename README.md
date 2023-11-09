@@ -6,6 +6,7 @@ This repository contains the device firmware for rocket launching.
 
 [TTGO T-Beam V1.2](https://www.aliexpress.com/item/1005003088139358.html) with 868MHz radio and custom buzzer and igniter modules are used as a hardware.
 
+Support is build from 25 mm PP pipes with 45 degree knees and cross link. Defflector is made from 2 mm bent copper bar. 
 Mechanical construction assumes small rockets for 3 mm launching rod but more power rockets can also be launched with this electronics. Bigger battery needs to be used and other mechanical construction. 
 <br clear="left"/>
 
