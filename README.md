@@ -22,8 +22,8 @@ Code is written with portability in mind and porting mainly require removing usa
 Some concepts may need complete redesign as proprietary [esp-now](https://github.com/espressif/esp-now) is used in the project for ground-control communication and interfaces may not fit for other solutions.
 
 #### Platform dependent code:
-- [Power.hpp](https://github.com/gaskoin/ground-control/blob/main/main/include/Power.hpp) and [Power.cpp](https://github.com/gaskoin/ground-control/blob/main/main/Power.cpp) -> probably useless in other projects not using AXP2101 PMU.
-- [Logger.cpp](https://github.com/gaskoin/ground-control/blob/main/main/Logger.cpp)
-- [IODriver.cpp](https://github.com/gaskoin/ground-control/blob/main/main/IODriver.cpp)
-- [DigitalInput.cpp](https://github.com/gaskoin/ground-control/blob/main/main/DigitalInput.cpp)
-- [Communication.hpp](https://github.com/gaskoin/ground-control/blob/main/main/include/Communication.hpp) and [Communication.cpp](https://github.com/gaskoin/ground-control/blob/main/main/Communication.cpp)
+- [Power.hpp](https://github.com/gaskoin/launchpad/blob/main/main/include/Power.hpp) and [Power.cpp](https://github.com/gaskoin/launchpad/blob/main/main/Power.cpp) -> probably useless in other projects not using AXP2101 PMU.
+- [Logger.cpp](https://github.com/gaskoin/launchpad/blob/main/main/Logger.cpp)
+- [IODriver.cpp](https://github.com/gaskoin/launchpad/blob/main/main/IODriver.cpp)
+- [DigitalInput.cpp](https://github.com/gaskoin/launchpad/blob/main/main/DigitalInput.cpp)
+- [Communication.hpp](https://github.com/gaskoin/launchpad/blob/main/main/include/Communication.hpp) and [Communication.cpp](https://github.com/gaskoin/launchpad/blob/main/main/Communication.cpp)
