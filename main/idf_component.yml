@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+dependencies:
+  idf:
+    version: ">=5.1.0"
+  xpowers:
+    git: https://github.com/lewisxhe/XPowersLib.git
+    version: "v0.2.0"
